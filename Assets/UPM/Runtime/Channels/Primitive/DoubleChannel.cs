@@ -3,7 +3,7 @@
 namespace Grochoska.ScriptableChannels
 {
     [CreateAssetMenu(menuName = "Game channel/Double", order = 100)]
-    public sealed class DoubleChannel : BaseGameChannel<double>
+    public sealed class DoubleChannel : BaseChannel<double>
     {
 
     }

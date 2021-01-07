@@ -6,7 +6,7 @@ Extensible scriptable object event system in Unity
 Add the folowing line to your `manifest.json` 
 
 ```json
-"com.grochoska.scriptablechannels": "https://github.com/RafaelGrochoska/ScriptableChannels.git#1.0.0",
+"com.grochoska.scriptablechannels": "https://github.com/RafaelGrochoska/ScriptableChannels.git#1.1.0",
 ```
 
 ## How to use:

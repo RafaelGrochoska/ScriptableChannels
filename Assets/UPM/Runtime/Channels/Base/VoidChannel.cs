@@ -4,7 +4,7 @@ using UnityEngine;
 namespace Grochoska.ScriptableChannels
 {
     [CreateAssetMenu(menuName = "Game channel/Void", order = 100)]
-    public sealed class VoidGameChannel : ScriptableObject
+    public sealed class VoidChannel : ScriptableObject
     {
         private Action _action = delegate {  };
 

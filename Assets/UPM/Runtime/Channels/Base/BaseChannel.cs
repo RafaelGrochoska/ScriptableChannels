@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Grochoska.ScriptableChannels
 {
-    public abstract class BaseGameChannel<T> : ScriptableObject
+    public abstract class BaseChannel<T> : ScriptableObject
     {
         private Action<T> _action = delegate {  };
 
